@@ -25,7 +25,9 @@ review.
 5. Output:
 After completing the allocations, the program displays the final allocation matrix and
 total transportation cost.
+
 DESCRIPTION
+
 The program aims to find an initial feasible solution to an unbalanced transportation problem, 
 where the goal is to minimize the total transportation cost from multiple suppliers to multiple 
 consumers. It employs Vogel's Approximation Method (VAM), which is known for its 
