@@ -3,6 +3,13 @@ AIM
 To provide an initial feasible solution to balanced transportation problems using Vogel's 
 Approximation Method (VAM).
 
+DESCRIPTION
+
+The program aims to find an initial feasible solution to an unbalanced transportation problem, 
+where the goal is to minimize the total transportation cost from multiple suppliers to multiple 
+consumers. It employs Vogel's Approximation Method (VAM), which is known for its 
+efficiency in generating a good starting solution.
+
 FUNCTIONALITIES
 1. Input Handling:
 • The program prompts the user to input the number of suppliers and consumers.
@@ -26,9 +33,4 @@ review.
 After completing the allocations, the program displays the final allocation matrix and
 total transportation cost.
 
-DESCRIPTION
 
-The program aims to find an initial feasible solution to an unbalanced transportation problem, 
-where the goal is to minimize the total transportation cost from multiple suppliers to multiple 
-consumers. It employs Vogel's Approximation Method (VAM), which is known for its 
-efficiency in generating a good starting solution.
